@@ -23,20 +23,18 @@
       <RowConstraints />
       <RowConstraints />
    </rowConstraints>
-   <children>
-      <Button fx:id="button1" alignment="CENTER" contentDisplay="RIGHT" defaultButton="true" mnemonicParsing="false" onAction="#handleButtonClick" prefHeight="31.0" prefWidth="143.0" text="Search" textAlignment="CENTER" GridPane.rowIndex="1">
-         <GridPane.margin>
-            <Insets left="400.0" />
-         </GridPane.margin></Button>
-      <TextField fx:id="searchField" focusTraversable="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#handleButtonClick" prefHeight="37.0" prefWidth="384.0" GridPane.rowIndex="1">
-         <font>
-            <Font name="Ebrima" size="16.0" />
-         </font></TextField>
-      <TextArea fx:id="outputField" prefHeight="454.0" prefWidth="678.0" wrapText="true" GridPane.rowIndex="3">
-         <font>
-            <Font name="Ebrima" size="18.0" />
-         </font></TextArea>
-   </children>
+   <Button alignment="CENTER" contentDisplay="RIGHT" defaultButton="true" mnemonicParsing="false" onAction="#handleButtonClick" prefHeight="31.0" prefWidth="143.0" text="Search" textAlignment="CENTER" GridPane.rowIndex="1">
+      <GridPane.margin>
+         <Insets left="400.0" />
+      </GridPane.margin></Button>
+   <TextField fx:id="searchField" focusTraversable="false" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onAction="#handleButtonClick" prefHeight="37.0" prefWidth="384.0" GridPane.rowIndex="1">
+      <font>
+         <Font name="Ebrima" size="16.0" />
+      </font>rser "jsoup" merged into output</TextField>
+   <TextArea fx:id="outputField" editable="false" prefHeight="454.0" prefWidth="678.0" wrapText="true" GridPane.rowIndex="3">
+      <font>
+         <Font name="Ebrima" size="18.0" />
+      </font></TextArea>
    <padding>
       <Insets bottom="10.0" left="10.0" />
    </padding>

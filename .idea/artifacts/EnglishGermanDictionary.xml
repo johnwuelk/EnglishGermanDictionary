@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="EnglishGermanDictionary">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnglishGermanDictionary</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="Johannes Wuelk" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="EnglishGermanDictionary.jar">
+        <element id="module-output" name="EnglishGermanDictionary" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/lib/jsoup-1.12.1.jar" />
+    </root>
+  </artifact>
+</component>
