@@ -10,5 +10,14 @@ java -jar EnglishGermanDictionary.jar &
 For ease of use a link to this command can be created.
 
 <div align="center">
-    <img src="/Screenshot1.png" width="600px"</img> 
+    <img src="/screenshots/Screenshot1.png" width="600px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/Screenshot2.png" width="600px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/Screenshot3.png" width="600px"</img> 
+</div>
+<div align="center">
+    <img src="/screenshots/Screenshot4.png" width="600px"</img> 
 </div>
