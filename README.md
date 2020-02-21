@@ -8,3 +8,5 @@ Start:
 java -jar EnglishGermanDictionary.jar &
 ```
 For ease of use a link to this command can be created.
+
+![Alt text](/Screenshot1.png?raw=true "load")
