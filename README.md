@@ -9,4 +9,6 @@ java -jar EnglishGermanDictionary.jar &
 ```
 For ease of use a link to this command can be created.
 
-![Alt text](/Screenshot1.png?raw=true "load" width="400px")
+<div align="center">
+    <img src="/screenshot1.jpg" width="200px"</img> 
+</div>
