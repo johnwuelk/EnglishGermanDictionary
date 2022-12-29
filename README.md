@@ -3,7 +3,7 @@ English - German Dictionary in both directions (DE<->EN), from the large dict.cc
 
 Including spell correction, google search for definition of terms and convenient hotkeys.
 
-Start:
+To Start:
 ```
 java -jar EnglishGermanDictionary.jar &
 ```
